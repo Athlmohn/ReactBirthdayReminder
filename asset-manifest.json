@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactReviewApp/static/css/main.04fb4881.css",
+    "main.js": "/ReactReviewApp/static/js/main.b075ca93.js",
+    "index.html": "/ReactReviewApp/index.html",
+    "main.04fb4881.css.map": "/ReactReviewApp/static/css/main.04fb4881.css.map",
+    "main.b075ca93.js.map": "/ReactReviewApp/static/js/main.b075ca93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04fb4881.css",
+    "static/js/main.b075ca93.js"
+  ]
+}
